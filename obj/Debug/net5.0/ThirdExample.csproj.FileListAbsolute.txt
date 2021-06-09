@@ -1,0 +1,16 @@
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\bin\Debug\net5.0\ThirdExample.exe
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\bin\Debug\net5.0\ThirdExample.deps.json
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\bin\Debug\net5.0\ThirdExample.runtimeconfig.json
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\bin\Debug\net5.0\ThirdExample.runtimeconfig.dev.json
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\bin\Debug\net5.0\ThirdExample.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\bin\Debug\net5.0\ref\ThirdExample.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\bin\Debug\net5.0\ThirdExample.pdb
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.csprojAssemblyReference.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.AssemblyInfoInputs.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.AssemblyInfo.cs
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.csproj.CoreCompileInputs.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ref\ThirdExample.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.pdb
+C:\Users\Lad\source\repos\CSharp\Dahia\ThirdExample\obj\Debug\net5.0\ThirdExample.genruntimeconfig.cache
